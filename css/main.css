@@ -43,7 +43,6 @@ header h1 {
     font-family: 'Lora', serif;
     font-size: 30px;
     color:#bbc085 ;
-    /* change on h1 /*
 }
 
 nav {
@@ -88,7 +87,7 @@ header h2 span {
     }
      
     #about p {
-        font-size: 18px;
+        font-size: 16px;
         color:#7f7f7f;
         line-height: 40px;
         padding-left: 50px;
